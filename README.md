@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Léo an applied maths and economics graduate at Université Paris Dauphine-PSL.
+I'm Léo an operations research and economics graduate at Université Paris Dauphine-PSL.
 I'm interested in computational economics and networking. I mostly program in Rust and Python.
 
 Notable small projects:
